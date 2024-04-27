@@ -1,0 +1,25 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: 0 auto;
+  align-items: center;
+}
+header div a {
+  color: black;
+  text-decoration: none;
+}
+header div {
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+}
+.section1 {
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+
+  height: 800px;
+}
